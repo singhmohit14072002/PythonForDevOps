@@ -14,3 +14,5 @@
 - String interpolation: Python supports various ways to format strings, including f-strings (f"...{variable}..."), %-formatting ("%s %d" % ("string", 42)), and `str.format()`.
 - Escape sequences: Special characters like newline (\n), tab (\t), and others are represented using escape sequences.
 - String methods: Python provides many built-in methods for string manipulation, such as `split()`, `join()`, and `startswith()`.
+- partition() Returns a tuple where the string is parted into three parts
+- For more method go w3 school of string methods.
