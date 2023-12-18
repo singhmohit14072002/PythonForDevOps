@@ -2,6 +2,8 @@
 
 In Python, a variable is a named storage location used to store data. Variables are essential for programming as they allow us to work with data, manipulate it, and make our code more flexible and reusable. 
 
+We use the variables because it reduces the time and error rates. Thats why we use variables.
+
 #### Example:
 
 ```python
