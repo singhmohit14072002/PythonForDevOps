@@ -1,23 +1,23 @@
-num1 = 10
-num2 = 20
-
-def addition():
+def addition(num1, num2):
     add = num1 + num2
-    print(add)
+    return add
 
-def subtraction():
+def subtraction(num1, num2):
     s = num1 - num2
-    print(s)
+    return s
 
-def multiplication():
+def multiplication(num1, num2):
     mul = num1 * num2
-    print(mul)
+    return mul
 
-def division():
+def division(num1, num2):
     dev = num1 / num2
-    print(dev)
+    return dev
 
 
-addition(); subtraction(); multiplication(); division();
+print(addition(5,100))
+print(subtraction(100,23))
+print(multiplication(1000,5000))
+print(division(108, 4))
 
 # In this vedio implementation of function wwe have done and try to understand  wwhy function are important
