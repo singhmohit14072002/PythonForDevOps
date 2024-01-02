@@ -4,11 +4,11 @@ ec2_instances_info = [
         "type": "t2.micro"
     },
     {
-         "id": "instance-002",
+        "id": "instance-002",
         "type": "t2.medium"
     },
     {
-         "id": "instance-003",
+        "id": "instance-003",
         "type": "t2.xlarge"
     }
 ]
