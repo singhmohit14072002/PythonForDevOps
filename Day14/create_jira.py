@@ -5,7 +5,7 @@ from requests.auth import HTTPBasicAuth
 import json
 
 url = "https://capcool1813.atlassian.net/rest/api/3/issue"
-API_TOKEN = "ATATT3xFfGF01ArXgZqWbL9Rhjci0KWyQ6abRhZMpOXGkf8tSYoDXN1rXnj4r1REEHWkeFYIZ54WrumtYuzLeCsibxYW6S-Bvf-8TMeWNZON80ySfOV5aKdXcgoGKBKKn5z6HYIVqZP2Eg9VdDfj4n0KU7TZAuuI7xOAQI6iCeWD2klCw27kiQw=E460D3B3"
+API_TOKEN = "ATATT3xFfGF0KBY-Nec58skZ_QK_b87IVHbyXIohHFRBa0ficxhvILr1pEkT3YpVZ4mzP8hPFSeIjHtjHgGFKXEb6NW2UqtZ7GLaaJ5ao142GO0AShQnq0hlr6Pu77snlQKwicFURChNJ_g-j-4b1ssRDY76c_N1zyjIEfDDrQdbJhmCs9yFAYI=9050BE39"
 auth = HTTPBasicAuth("capcool1813@gmail.com", API_TOKEN)
 
 headers = {
@@ -38,7 +38,7 @@ payload = json.dumps( {
       "blitz_test"
     ],
     "project": {
-      "key": "KAN"
+      "key": "MOH"
     },
     "summary": "First Jira Ticket",
   },
